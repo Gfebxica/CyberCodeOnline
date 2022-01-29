@@ -1997,7 +1997,7 @@
  	 	 	 	"eng": "Language"
  	 	 	},
  	 	 	"langWarning": {
- 	 	 	 	"trans": "Данный перевод находится в открытом доступе и был предоставлен нашими игроками. Скорее всего не завершен и содержаит ошибки. Дополнить его можно на нашей странице GitHub",
+ 	 	 	 	"trans": "Данный перевод находится в открытом доступе и был предоставлен нашими игроками. Скорее всего не завершен и содержит ошибки. Дополнить его можно на нашей странице GitHub",
  	 	 	 	"eng": "This language pack is open source and contributed by our players, the text may not be fully translated and could contain mistakes. please feel free to edit and contribute from our Github page"
  	 	 	},
  	 	 	"playBackgroundMusic": {
@@ -2485,7 +2485,7 @@
  	 	},
  	 	"generalCaptcha": {
  	 	 	"story": {
- 	 	 	 	"trans": "Ты нашел старый запертый сейф, там, кажется, есть наклейка с каким-то текстом, написанным на ней.",
+ 	 	 	 	"trans": "Ты нашел старый запертый сейф. Там, кажется, есть наклейка с каким-то текстом, написанным на ней.",
  	 	 	 	"eng": "You found an old locked safe box, there seems like a post-it with some text written on it."
  	 	 	},
  	 	 	"title": {
@@ -2789,7 +2789,7 @@
  	 	 	 	"eng": "please register or login with existing account"
  	 	 	},
  	 	 	"asusDescription": {
- 	 	 	 	"trans": "Телефон ASUS (ZENFONE, ROG) имеет ошибку с экраном, не являющимся кликами, в этом случае, пожалуйста, попробуйте снова включить экран и снова и снова поставить это приложение и возобновить его. Это должно исправить проблему :)",
+ 	 	 	 	"trans": "Телефон ASUS (ZENFONE, ROG) имеет ошибку с экраном, делая его не кликабельным. В этом случае попробуйте перевключить ваш экран, или сверните приложение и разверните обратно. Это должно исправить проблему :)",
  	 	 	 	"eng": "ASUS phone (Zenfone, ROG) has bug with screen being not clickable, in the case, please try turning your screen off and on again, or put this app to background and resume it again. this should fix the issue :)"
  	 	 	}
  	 	},
@@ -3059,10 +3059,10 @@
  	 	 	 	}
  	 	 	},
  	 	 	"noHealingPrompt": {
- 	 	 	 	"trans": "Может быть, сначала купить немного лекарств?",
+ 	 	 	 	"trans": "Может сначала купить немного лекарств?",
  	 	 	 	"eng": "Maybe buy some healing item first?",
  	 	 	 	"des": {
- 	 	 	 	 	"trans": "Похоже, у тебя нет лекарств с собой, купи их в магазине Триноки в городе, прежде чем вступать в подземелья, так как там ты не регенерируешь здоровье после боя",
+ 	 	 	 	 	"trans": "Похоже, у тебя нет лекарств с собой, купи их в магазине Триноки в городе, прежде чем вступать в подземелья, так как там ты не восстанавливаешь здоровье после боя",
  	 	 	 	 	"eng": "Seems like you dont have any Pain Away with you, purchase it from Trinoky Mart in the city first before entering dungeons, since you will not regen after battles in dungeon"
  	 	 	 	},
  	 	 	 	"cancel": {
@@ -3115,7 +3115,7 @@
  	 	 	 	 	"eng": "Nearby Enemies"
  	 	 	 	},
  	 	 	 	"desc": {
- 	 	 	 	 	"trans": "Ишите противников на улице, за пределами подземелий они слабее и их легче победить. Однако, за них дают меньше опыта",
+ 	 	 	 	 	"trans": "Ищите противников на улице, за пределами подземелий они слабее и их легче победить. Однако, за них дают меньше опыта",
  	 	 	 	 	"eng": "Scans for nearby enemies on the street, enemies outside dungeons are weaker and easier to defeat. However they also drop less exp"
  	 	 	 	}
  	 	 	}
@@ -3316,11 +3316,11 @@
  	 	 	 	"eng": "Suspended"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Ваша учетная запись была приостановлена автоматически системой из-за подозрительной активности",
+ 	 	 	 	"trans": "Ваша учетная запись была автоматически приостановлена системой из-за подозрительной активности",
  	 	 	 	"eng": "Your account has been suspended automatically by the system due to Suspicious Activity"
  	 	 	},
  	 	 	"content": {
- 	 	 	 	"trans": "Если у вас есть какие-либо вопросы, пожалуйста, не стесняйтесь обращаться к Декстеру непосредственно через официальный раздор (ссылка можно найти в плавающем меню -> ссылках) или электронной почты в Ching.huang.dexter@gmail.com",
+ 	 	 	 	"trans": "Если у вас есть какие-либо вопросы, пожалуйста, не стесняйтесь обращаться к Декстеру непосредственно через официальный Discord (ссылка можно найти в плавающем меню -> ссылках) или электронной почты в Ching.huang.dexter@gmail.com",
  	 	 	 	"eng": "If you have any questions please feel free to contact Dexter directly via official Discord (Link can be found in Floating Menu -> Links) or email to ching.huang.dexter@gmail.com"
  	 	 	}
  	 	},
@@ -3973,7 +3973,7 @@
  	 	 	},
  	 	 	"goodReview": {
  	 	 	 	"title1": {
- 	 	 	 	 	"trans": "Ух ты, большое спасибо! Для меня большая честь, пожалуйста, сделайте это официально, оставив отзыв на странице нашего магазина :)",
+ 	 	 	 	 	"trans": "Ух ты, большое спасибо! Для меня это большая честь, пожалуйста, сделайте это официально, оставив отзыв на странице нашего магазина :)",
  	 	 	 	 	"eng": "Wow, thanks so much! I'm honored, please make it official by leaving them on our store page :)"
  	 	 	 	},
  	 	 	 	"title2": {
@@ -4219,7 +4219,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"amount"
  	 	 	 	],
- 	 	 	 	"trans": "Это будет пожертвовать ${amount} Юнит(ов) из вашей учетной записи",
+ 	 	 	 	"trans": "Это пожертвует ${amount} Юнит(ов) из вашей учетной записи",
  	 	 	 	"eng": "This will donate ${amount} Unit from your account"
  	 	 	},
  	 	 	"notEnough": {
@@ -4364,7 +4364,7 @@
  	 	 	},
  	 	 	"useItem": {
  	 	 	 	"localFightCantUseItem": {
- 	 	 	 	 	"trans": "Ты не можешб использовать элемент во время уличных боев, предметы доступны только во время подземелья",
+ 	 	 	 	 	"trans": "Ты не можешь использовать элемент во время уличных боев, предметы доступны только во время подземелья",
  	 	 	 	 	"eng": "You cannot use item during street fights, items are only available during dungeons"
  	 	 	 	}
  	 	 	}
@@ -4372,7 +4372,7 @@
  	},
  	"tutorial": {
  	 	"localCombatButton": {
- 	 	 	"trans": "Нажми здесь, чтобы проверить наличие уличных врагов",
+ 	 	 	"trans": "Нажми здесь, чтобы найти уличных врагов",
  	 	 	"eng": "Click here to scan for street enemies"
  	 	},
  	 	"localCombat": {
@@ -4384,7 +4384,7 @@
  	 	 	"eng": "Click here to attack the enemy"
  	 	},
  	 	"statusInv": {
- 	 	 	"trans": "Нажми «Возьми все», чтобы получить всю добычу",
+ 	 	 	"trans": "Нажми «Взять все», чтобы получить всю добычу",
  	 	 	"eng": "Click 'TAKE ALL' to get all the loots"
  	 	},
  	 	"dungeonQuest": {
@@ -4413,7 +4413,7 @@
  	 	 	 	"eng": "All PayPal purchases grants 10% additional Units! You may use paypal only on website version, simply login with your browser."
  	 	 	},
  	 	 	"paypalBonus": {
- 	 	 	 	"trans": "Вы получите дополнительные на 10% больше Юнитов, покупая через PayPal",
+ 	 	 	 	"trans": "Вы получите дополнительные 10%  Юнитов, покупая через PayPal",
  	 	 	 	"eng": "You will receive additional 10% more Units with paypal purchase"
  	 	 	}
  	 	},
@@ -4692,7 +4692,7 @@
  	 	 	 	 	"eng": "\"Elite\" donation title"
  	 	 	 	},
  	 	 	 	"2": {
- 	 	 	 	 	"trans": "Возможность мена изображения профиля",
+ 	 	 	 	 	"trans": "Возможность смены изображения профиля",
  	 	 	 	 	"eng": "Unlock profile picture customization"
  	 	 	 	},
  	 	 	 	"3": {
@@ -4913,7 +4913,7 @@
  	 	 	 	"eng": "If you have some spare change it would be very helpful if you could donate to help with continued support and development of the game."
  	 	 	},
  	 	 	"content4": {
- 	 	 	 	"trans": "Пожалуйста, жертвуйте удобную Вам сумму. Донат настроен так, что не даёт преимуществ",
+ 	 	 	 	"trans": "Пожалуйста, жертвуйте удобную вам сумму. Донат настроен так, что не даёт преимуществ",
  	 	 	 	"eng": "Please only donate if you are comfortable, all benefits are designed to be fair for all players and will not give an edge in gameplay."
  	 	 	}
  	 	},
@@ -5106,7 +5106,7 @@
  	 	 	"eng": "of Stunning"
  	 	},
  	 	"bargain": {
- 	 	 	"trans": "Gереговоров",
+ 	 	 	"trans": "Переговоров",
  	 	 	"eng": "of Bargaining"
  	 	},
  	 	"power": {
